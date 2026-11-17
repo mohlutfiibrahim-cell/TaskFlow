@@ -245,7 +245,7 @@ h1, h2 { font-family: "Manrope", "DM Sans", sans-serif; }
     clip-path: ellipse(100% 100% at 0 50%);
     content: "";
 }
-.auth-theme-toggle { position: absolute; top: 24px; right: 28px; z-index: 1; }
+.auth-theme-toggle { position: absolute; top: 24px; right: 28px; z-index: 2; }
 .auth-layout { position: relative; z-index: 1; display: grid; width: min(1080px, 100%); min-height: 100vh; grid-template-columns: minmax(0, 1.1fr) minmax(350px, .9fr); align-items: center; gap: clamp(50px, 8vw, 110px); margin: auto; padding: 60px 48px; }
 .auth-story { max-width: 470px; padding: 0 clamp(12px, 2.2vw, 28px); }
 .auth-brand { margin: 0 0 52px; color: #fff; }
